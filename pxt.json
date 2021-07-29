@@ -1,0 +1,49 @@
+{
+    "name": "Pmeowbit NeoPixel Controller",
+    "description": "",
+    "dependencies": {
+        "device": "*",
+        "light": "*",
+        "feather": "*",
+        "controller": "*",
+        "sevenseg": "*"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "branch": "v0.12.17",
+        "tag": "v0.12.17",
+        "commits": "https://github.com/microsoft/pxt-arcade/commits/bbca8732cef11a27ce09394ba07a49d406ab792c",
+        "target": "1.4.45",
+        "pxt": "5.17.29",
+        "targetId": "arcade"
+    },
+    "supportedTargets": [
+        "arcade"
+    ],
+    "preferredEditor": "blocksprj",
+    "palette": [
+        "#000000",
+        "#fc0d1b",
+        "#fd8023",
+        "#fffd37",
+        "#fd9ea6",
+        "#1682fb",
+        "#2cfffe",
+        "#b0a0fc",
+        "#29fd2e",
+        "#fc1581",
+        "#7e25fb",
+        "#0b24fb",
+        "#644722",
+        "#fc28fc",
+        "#000000",
+        "#ffffff"
+    ]
+}
